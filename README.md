@@ -28,4 +28,10 @@ There are 4 wires inside the wall unit that connect to the main supply:
 
 ## Connecting to the ESP boards
 
+### Wall unit to ESP
+
+![Circuit](IMG_0640.jpg?raw=true "Wiring")
+
+### Sensor (room) board
+
 TODO
