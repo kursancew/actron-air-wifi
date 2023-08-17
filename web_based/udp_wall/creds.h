@@ -1,2 +1,2 @@
-#define CRED_SSID "Kursancew2gR"
-#define CRED_PWD "Bcdfgh3690"
+#define CRED_SSID "MySSID"
+#define CRED_PWD "MyPw"
